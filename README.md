@@ -1,4 +1,4 @@
-# Project Title
+# stability_gcloud_function
 
 Google Cloud Function for drawing Stability/DreamStudio.ai images.
 
